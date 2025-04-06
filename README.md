@@ -17,7 +17,7 @@ Here, anyone can post or explore verified WFH and freelance job listings — no 
 
 ## 🔍 Start Exploring
 
-👉 Go to the [Discussions Tab](https://github.com/chetansinghnegi-cpu/atsmantra-forum/discussions)  
+👉 Go to the [Discussions Tab](https://github.com/chetansinghnegi-cpu/workfromhomejobs/discussions/1)  
 👉 Choose a thread like:
 - “Work-from-home jobs in India – Share and Explore”
 - “City-wise job listings for professionals”
