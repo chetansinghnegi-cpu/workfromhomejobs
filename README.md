@@ -1,5 +1,3 @@
-![Atsmantra Banner](https://https://atsmantra.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAbout.80f77617.png&w=1080&q=75/banner.png)
-
 # 💼 Atsmantra – Work-from-Home & Freelance Job
 
 Welcome to the Atsmantra Community Forum — a space to discover and share:
