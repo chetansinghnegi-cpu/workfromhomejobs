@@ -55,6 +55,6 @@ If you find this forum useful:
 ---
 
 Made with ❤️ by the [Atsmantra](https://github.com/chetansinghnegi-cpu) community.  
-Let’s make job hunting in India easier — together. 🇮🇳
+Let’s make job hunting in India easier, transparent, and open — together.
 
 
