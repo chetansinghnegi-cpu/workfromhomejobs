@@ -12,7 +12,7 @@ Your open-source hub for remote, freelance, and city-wise jobs in India
 # What Is This?
 
 Atsmantra is an open-source job-sharing community.  
-Here, anyone can post or explore verified WFH and freelance job listings — no registration, no login needed. Just help others grow. 💚
+Here, anyone can post or explore verified WFH and freelance job listings — no registration, no login needed. Just help others grow.
 
 ---
 
