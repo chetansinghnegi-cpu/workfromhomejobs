@@ -29,11 +29,11 @@ Choose a thread like:
 
 Please use this simple format when sharing job opportunities:
 
-Job Role:
-Type: Remote / Freelance / Part-Time
-Location: India / All Cities / Specific City
-Link: [Apply Here](https://atsmantra.com)
-Notes: Experience, stipend, or required skills
+- Job Role:
+- Type: Remote / Freelance / Part-Time
+- Location: India / All Cities / Specific City
+- Link: [Apply Here](https://atsmantra.com)
+- Notes: Experience, stipend, or required skills
 
 ---
 
