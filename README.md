@@ -55,7 +55,7 @@ Found this helpful? Help the community grow:
 
 ---
 
-Made with love by the [Atsmantra](https://github.com/chetansinghnegi-cpu) community.  
+Made with love by the Atsmantra community.  
 Let’s make job hunting in India easier, transparent, and open — together.
 
 
